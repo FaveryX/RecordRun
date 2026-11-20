@@ -1,7 +1,7 @@
 RecordRun - record and replay mouse and keyboard input (Windows)
 Copyright (C) 2026 FaveryX - GPL-3.0-or-later (see LICENSE.txt)
 
-![image_alt_](https://github.com/FaveryX/RecordRun/blob/d2fc7ad950b2180b0bdf3529627c588ed69afbc4/RecordRun%20Text.jpg)
+![image_alt_]_(https://github.com/FaveryX/RecordRun/blob/d2fc7ad950b2180b0bdf3529627c588ed69afbc4/RecordRun%20Text.jpg)
 
 Download and install
 Go to the Releases page.
