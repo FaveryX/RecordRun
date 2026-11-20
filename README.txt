@@ -24,4 +24,4 @@ Copyright (C) 2026 FaveryX
 
 RecordRun is free software, licensed under the GNU General Public License v3.0 or later. See LICENSE.txt. It bundles the .NET runtime (MIT license); see THIRD-PARTY-NOTICES.txt.
 
-Built with AI assistance. Published by FaveryX.
+Published by FaveryX.
