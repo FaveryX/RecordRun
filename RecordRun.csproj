@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>disable</Nullable>
+    <AssemblyName>RecordRun</AssemblyName>
+    <RootNamespace>RecordRun</RootNamespace>
+    <Product>RecordRun</Product>
+    <Company>FaveryX</Company>
+    <Authors>FaveryX</Authors>
+    <Copyright>Copyright © 2026 FaveryX</Copyright>
+    <PackageLicenseExpression>GPL-3.0-or-later</PackageLicenseExpression>
+    <Version>1.0.0</Version>
+  </PropertyGroup>
+</Project>

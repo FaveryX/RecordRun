@@ -1,0 +1,3 @@
+RecordRun bundles the .NET runtime, which is licensed under the MIT License.
+Copyright (c) .NET Foundation and Contributors.
+Source and license: https://github.com/dotnet/runtime
